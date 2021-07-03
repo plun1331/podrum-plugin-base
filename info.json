@@ -1,0 +1,8 @@
+{
+    "name": "Plugin Name",
+    "api_version": "0.0.1",
+    "main": "main.Main",
+    "version": "0.0.1",
+    "description": "Plugin Description",
+    "author": "Plugin Author"
+}
